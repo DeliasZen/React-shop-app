@@ -7,7 +7,7 @@ export function Navigation() {
       <span className='font-bold text-3xl'>SHOP</span>
 
       <span className='font-bold'>
-        <Link to="/" className='mr-2'>Products</Link>
+        <Link to="/React-shop-app" className='mr-2'>Products</Link>
         <Link to="/about">About</Link>
         </span>
     </nav>
